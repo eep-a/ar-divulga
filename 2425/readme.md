@@ -1,0 +1,1 @@
+Se creará una carpeta con con sólo vuestras iniciales y ahí pondremos el index.html que será la aplicación AR.
